@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bxg:home|Door43 (bxg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bxg|d43-bxg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bxg/archive/master.zip|d43-bxg.zip]]
+
+**Recent Changes**
+{{changes>ns = bxg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bxg|Ethnologue data]]
+
